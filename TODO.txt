@@ -1,0 +1,2 @@
+ - Add Overview over all algorithms, showing length, effect and humanly readable description
+ - Add Documentation for notation used in Overview
